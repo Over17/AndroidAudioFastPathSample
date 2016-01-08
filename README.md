@@ -21,6 +21,7 @@ To rebuild the code
 License
 -------
 Copyright (C) 2010 The Android Open Source Project
+
 Modifications Copyright (C) 2016 Yury Habets
 
 Licensed under the Apache License, Version 2.0 (the "License");
