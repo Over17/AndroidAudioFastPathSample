@@ -36,19 +36,19 @@
     android:id="@+id/sawtooth"
     android:text="Play Sawtooth"
     android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
-    />
-<Button
-    android:id="@+id/device_params"
-    android:text="Device Params"
-    android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="fill_parent"
     />
 <Button
     android:id="@+id/embedded_soundtrack"
-    android:text="Embedded\nsoundtrack"
+    android:text="Play soundtrack"
     android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="fill_parent"
     />
 </LinearLayout>
+<Button
+    android:id="@+id/device_params"
+    android:text="Device Params"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    />
 </LinearLayout>
